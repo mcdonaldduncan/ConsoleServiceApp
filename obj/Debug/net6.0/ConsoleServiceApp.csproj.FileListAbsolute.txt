@@ -1,0 +1,15 @@
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\bin\Debug\net6.0\ConsoleServiceApp.exe
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\bin\Debug\net6.0\ConsoleServiceApp.deps.json
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\bin\Debug\net6.0\ConsoleServiceApp.runtimeconfig.json
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\bin\Debug\net6.0\ConsoleServiceApp.dll
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\bin\Debug\net6.0\ConsoleServiceApp.pdb
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ConsoleServiceApp.csproj.AssemblyReference.cache
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ConsoleServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ConsoleServiceApp.AssemblyInfoInputs.cache
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ConsoleServiceApp.AssemblyInfo.cs
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ConsoleServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ConsoleServiceApp.dll
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\refint\ConsoleServiceApp.dll
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ConsoleServiceApp.pdb
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ConsoleServiceApp.genruntimeconfig.cache
+C:\Users\dfmcd\Documents\GitHub\ConsoleServiceApp\obj\Debug\net6.0\ref\ConsoleServiceApp.dll
